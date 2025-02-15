@@ -1,2 +1,2 @@
-# Budget-Tacker
+# Budget-Tracker
 Calculating yearly budget
