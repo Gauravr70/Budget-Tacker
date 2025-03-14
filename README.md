@@ -2,7 +2,8 @@ Overview
 
 This budget tracker spreadsheet is designed to provide a clear breakdown of income, expenses, and savings, using both tabular data and visual charts for better financial analysis. The document includes salary details, expenses, net profit calculations, and various charts to illustrate financial insights.
 
-Sections Explained
+![image](https://github.com/user-attachments/assets/74799105-e80c-427c-8da2-692997d3af60)
+
 
 1. Income & Deductions
 
@@ -51,3 +52,7 @@ Funnel Chart: Displays the hierarchy of expenses from highest to lowest.
 Bar Chart: Shows salary, deductions, and total income comparisons.
 
 Pie Charts: Illustrate the percentage breakdown of savings versus expenses.
+![image](https://github.com/user-attachments/assets/d812fecb-9020-4474-b319-09cb71012f74)
+![image](https://github.com/user-attachments/assets/19244146-518e-4724-bad2-1de3a33227aa)
+
+
